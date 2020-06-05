@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="jstl-1.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/Compressed/jstl-1.2.jar!/" />
+      <root url="jar://D:/Java Libraries/jstl-1.2.jar!/" />
+      <root url="jar://D:/Java Libraries/mysql-connector-java-8.0.18.jar!/" />
+      <root url="file://D:/Java Libraries" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://D:/Java Libraries" recursive="false" />
+  </library>
+</component>
